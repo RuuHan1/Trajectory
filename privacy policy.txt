@@ -1,0 +1,15 @@
+Privacy Policy
+Last updated: 2025-09-18
+
+This game (“Application”) does not collect, process, or share any personal data from its users.
+
+Collected Data: The application does not collect any personal information (such as name, email, location, device ID, etc.).
+
+Advertising and Analytics: The application does not contain advertisements or use any third-party software for analytics purposes.
+
+Data Storage: User progress is stored only locally on the device using the application’s own storage system (PlayerPrefs). This data is not transmitted outside the device and is not shared with any third party.
+
+Children’s Privacy: The application does not knowingly collect any personal information from children.
+
+Contact: For questions regarding this privacy policy, please contact us at hamituysal25@gmail.com
+.
